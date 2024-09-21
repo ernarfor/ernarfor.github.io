@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ernarfor.github.io/sitemap.html.gz
+Sitemap: https://ernarfor.github.io/app/sitemap.html.gz
+Sitemap: https://ernarfor.github.io/assets/sitemap.html.gz
+Sitemap: https://ernarfor.github.io/css/sitemap.html.gz
+Sitemap: https://ernarfor.github.io/data/sitemap.html.gz
+Sitemap: https://ernarfor.github.io/includes/sitemap.html.gz
+Sitemap: https://ernarfor.github.io/item/sitemap.html.gz
+Sitemap: https://ernarfor.github.io/src/sitemap.html.gz
